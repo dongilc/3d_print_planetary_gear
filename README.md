@@ -1,5 +1,5 @@
 # 3d_print_planetary_gear
-8:1 Gear Ratio 2 Cycloid Gear Actuator
+8:1 Gear Ratio Planetary Gear Actuator
 
 ## Contribute
 Hackday.io : https://hackaday.io/project/167656-3d-printed-planetary-gear-actuator-module
